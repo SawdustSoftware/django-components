@@ -1,0 +1,4 @@
+sphinx
+coverage
+nose
+nose-progressive
