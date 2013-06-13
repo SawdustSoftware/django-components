@@ -1,7 +1,7 @@
 django-components
 =================
 
-An encapsulated thing that is meant to be reused across the site in many
+    An encapsulated thing that is meant to be reused across the site in many
     different views. Eg: Maker reviews box, little stats widget. It's meant to
     be like a mini-version of a view that you can embed in another page.
 
